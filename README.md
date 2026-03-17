@@ -6,7 +6,7 @@ The **Employee Management System**  is designed to streamline the management of 
 * **Full CRUD Operations**: Create, Read, Update, and Delete employee records seamlessly.
 * **Responsive UI**: A modern interface built using **Bootstrap 5** and **Bootstrap Icons** for a consistent experience across devices.
 
-## Additional Features
+## Additional Feature
 * **Search & Filter**: Quickly find employees by name or filter them by their specific **Department**.
 <img width="1705" height="197" alt="Screenshot 2026-03-17 172235" src="https://github.com/user-attachments/assets/c5b0b92f-fca7-4ec3-ad72-92c8252cc579" />
 
